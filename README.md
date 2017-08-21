@@ -5,4 +5,5 @@ http://e-stat.go.jp/SG2/eStatGIS/page/download.html
 
 
 # 平成２７年国勢調査における小地域の境界データ
-Satoshi IIDAさんの作られたデータを参照してください。https://github.com/nyampire/jp_chome_boundary/
+* Satoshi IIDAさんがまとめられたデータ：https://github.com/nyampire/jp_chome_boundary/
+* Hidenori FUJIMURAが作られたバイナリベクトルタイル：https://github.com/hfu/chome-vt
